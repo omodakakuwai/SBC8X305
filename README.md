@@ -3,4 +3,4 @@ The SBC8X305 is a home-built single board computer equipped with Signetics 8X305
 
 ![](https://github.com/omodakakuwai/SBC8X305/blob/main/images/SBC8X305_PCB.jpg)
 ![](https://github.com/omodakakuwai/SBC8X305/blob/main/images/SBC8X305_2.jpg)
-![](https://youtu.be/vJOpaahtguk)
+![](https://github.com/omodakakuwai/SBC8X305/blob/main/images/VTL_CALCPI.jpg)(https://youtu.be/vJOpaahtguk)
